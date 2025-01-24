@@ -1,0 +1,51 @@
+# Ignore the entire chaincode directory
+ca/_config_files/chaincode/
+
+ca/_shared_certs/
+
+/ca/Furnitures_Makers/crypto/client/ca/
+/ca/Furnitures_Makers/crypto/client/tls-ca/
+/ca/Furnitures_Makers/crypto/client/tls_root_cert/
+/ca/Furnitures_Makers/crypto/server/tls-ca/
+/ca/Furnitures_Makers/crypto/server/ca/
+
+!/ca/Furnitures_Makers/crypto/server/ca/fabric-ca-server-config.yaml
+!/ca/Furnitures_Makers/crypto/server/ca/msp/config.yaml
+!/ca/Furnitures_Makers/crypto/server/tls-ca/fabric-ca-server-config.yaml
+!/ca/Furnitures_Makers/crypto/server/tls-ca/msp/config.yaml
+
+/ca/Wood_Supply/crypto/client/ca/
+/ca/Wood_Supply/crypto/client/tls-ca/
+/ca/Wood_Supply/crypto/client/tls_root_cert/
+/ca/Wood_Supply/crypto/server/tls-ca/
+/ca/Wood_Supply/crypto/server/ca/
+
+!/ca/Wood_Supply/crypto/server/ca/fabric-ca-server-config.yaml
+!/ca/Wood_Supply/crypto/server/ca/msp/config.yaml
+!/ca/Wood_Supply/crypto/server/tls-ca/fabric-ca-server-config.yaml
+!/ca/Wood_Supply/crypto/server/tls-ca/msp/config.yaml
+
+/ca/Yacht_Sales/crypto/client/ca/
+/ca/Yacht_Sales/crypto/client/tls-ca/
+/ca/Yacht_Sales/crypto/client/tls_root_cert/
+/ca/Yacht_Sales/crypto/server/tls-ca/
+/ca/Yacht_Sales/crypto/server/ca/
+
+!/ca/Yacht_Sales/crypto/server/ca/fabric-ca-server-config.yaml
+!/ca/Yacht_Sales/crypto/server/ca/msp/config.yaml
+!/ca/Yacht_Sales/crypto/server/tls-ca/fabric-ca-server-config.yaml
+!/ca/Yacht_Sales/crypto/server/tls-ca/msp/config.yaml
+
+ca/_config_files/configtx/output/genesis_block_YFW.pb
+
+# Ignore IDE-related files
+.idea/
+*.iml
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log and temporary files
+*.log
+*.tmp
