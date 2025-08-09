@@ -1,5 +1,5 @@
 API files available at https://github.com/FilipSzemraj/blockchain-biz-secure-api
-I am currently working on this project, which is in a highly advanced state. However, I need to wait before uploading the files until I submit my engineering thesis due to potential plagiarism concerns and a lack of time to create a satisfactory repository. For now, a presentation is available in the main folder to provide an initial overview.
+I am currently working on this project, which is in a highly advanced state. However, I need to wait before uploading the files until I submit my engineering thesis due to potential plagiarism concerns and a lack of time to create a satisfactory repository. For now, a presentation is available [here](https://www.canva.com/design/DAGcGhmKqyw/YYKbkky32d0bkt0zYokpmQ/view?utm_content=DAGcGhmKqyw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he5577d6073) the main folder to provide an initial overview.
 This project consists of five separate IDE projects, complementing the main work.
 
 ![image](https://github.com/user-attachments/assets/211a2779-bd97-4459-993f-ac7b02fa6059)
